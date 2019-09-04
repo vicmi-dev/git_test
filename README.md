@@ -1,0 +1,1 @@
+This is Vicmi's first git project!"
